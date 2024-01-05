@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "shoppingList": {
+      ".read": "true",
+      ".write": "true"
+    }
+  }
+}

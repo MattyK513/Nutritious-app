@@ -1,0 +1,19 @@
+Add full ingredient list from recipe to shopping list
+
+Keep track of source of an item, including user input or a particular recipe
+re-order shopping list by sources of items
+
+
+delete all items from a particular recipe
+save a recipe and retrieve ingredients from it
+
+filter out duplicate items from shopping list
+
+enter estimated cost or budget for each item in shopping list
+link to some external resource to assign price to an item
+
+user-authentication. Each user has a unique Realtime Database section
+
+Finish pagination functionality so users can view more than the first 20 results.
+bug fix: app crashes when user clicks a clickable parameter after using quantitative input
+        (May have been inadvertently fixed)
